@@ -1,0 +1,16 @@
+amazon.com
+bsi.de
+duckduckgo.com
+ebay.de
+github.com
+gitlab.com
+juniper.net
+kali.org
+mozilla.org
+postbank.de
+samsung.com
+spiegel.de
+tagesschau.de
+twitter.com
+web.de
+zdf.de
